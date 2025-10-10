@@ -1,4 +1,8 @@
-![贪吃蛇]([https://platane.github.io/snk/](https://raw.githubusercontent.com/linghualive/linghualive/refs/heads/output/github-contribution-grid-snake-dark.svg))
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AifaiXiu/linghualive/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AifaiXiu/linghualive/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AifaiXiu/AifaiXiu/output/github-contribution-grid-snake.svg">
+</picture>
 ## ⚙️ &nbsp;GitHub Analytics
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=linghualive)
