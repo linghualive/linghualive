@@ -1,4 +1,4 @@
-![贪吃蛇](https://platane.github.io/snk/)
+![贪吃蛇]([https://platane.github.io/snk/](https://raw.githubusercontent.com/linghualive/linghualive/refs/heads/output/github-contribution-grid-snake-dark.svg))
 ## ⚙️ &nbsp;GitHub Analytics
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=linghualive)
