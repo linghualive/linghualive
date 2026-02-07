@@ -56,9 +56,9 @@ hobbies: [Graphic Design, Blog Writing]
 ## &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=linghualive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=linghualive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linghualive&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=linghualive&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages"/>
 </div>
 
 <br/>
