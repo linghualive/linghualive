@@ -50,6 +50,7 @@ hobbies: [Graphic Design, Blog Writing]
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=for-the-badge&logo=springboot)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=for-the-badge&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
 
 **DevOps & Tools**
