@@ -33,6 +33,8 @@ hobbies: [Graphic Design, Blog Writing]
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -44,9 +46,16 @@ hobbies: [Graphic Design, Blog Writing]
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)&nbsp;
 
-**Backend & Tools**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=for-the-badge&logo=springboot)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
+
+**DevOps & Tools**
+
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=for-the-badge&logo=adobe-indesign)&nbsp;
